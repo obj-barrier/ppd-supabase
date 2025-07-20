@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@openai/openai": "jsr:@openai/openai@^5.10.1",
+    "@supabase/functions-js": "jsr:@supabase/functions-js@^2.4.5",
+    "@supabase/supabase-js": "jsr:@supabase/supabase-js@^2.52.0"
+  }
+}
